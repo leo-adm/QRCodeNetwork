@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/QRCodeFlex/static/css/main.10c871b7.chunk.css",
-    "main.js": "/QRCodeFlex/static/js/main.ae270845.chunk.js",
-    "main.js.map": "/QRCodeFlex/static/js/main.ae270845.chunk.js.map",
-    "runtime-main.js": "/QRCodeFlex/static/js/runtime-main.85be21b7.js",
-    "runtime-main.js.map": "/QRCodeFlex/static/js/runtime-main.85be21b7.js.map",
-    "static/js/2.2e15270c.chunk.js": "/QRCodeFlex/static/js/2.2e15270c.chunk.js",
-    "static/js/2.2e15270c.chunk.js.map": "/QRCodeFlex/static/js/2.2e15270c.chunk.js.map",
-    "index.html": "/QRCodeFlex/index.html",
-    "precache-manifest.d34b69d7dcb5a4321ae708160c9f0a0c.js": "/QRCodeFlex/precache-manifest.d34b69d7dcb5a4321ae708160c9f0a0c.js",
-    "service-worker.js": "/QRCodeFlex/service-worker.js",
-    "static/css/main.10c871b7.chunk.css.map": "/QRCodeFlex/static/css/main.10c871b7.chunk.css.map",
-    "static/js/2.2e15270c.chunk.js.LICENSE.txt": "/QRCodeFlex/static/js/2.2e15270c.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.10c871b7.chunk.css",
+    "main.js": "/static/js/main.ae270845.chunk.js",
+    "main.js.map": "/static/js/main.ae270845.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa084646.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa084646.js.map",
+    "static/js/2.2e15270c.chunk.js": "/static/js/2.2e15270c.chunk.js",
+    "static/js/2.2e15270c.chunk.js.map": "/static/js/2.2e15270c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5afc5867a721c099ec2a9dcb2982d3f7.js": "/precache-manifest.5afc5867a721c099ec2a9dcb2982d3f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.10c871b7.chunk.css.map": "/static/css/main.10c871b7.chunk.css.map",
+    "static/js/2.2e15270c.chunk.js.LICENSE.txt": "/static/js/2.2e15270c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.85be21b7.js",
+    "static/js/runtime-main.aa084646.js",
     "static/js/2.2e15270c.chunk.js",
     "static/css/main.10c871b7.chunk.css",
     "static/js/main.ae270845.chunk.js"
