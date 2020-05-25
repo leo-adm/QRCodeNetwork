@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64e4c8889044f727453365657c331b76",
+    "revision": "dde47617101d2dad349e125fdc68f53d",
     "url": "/QRCodeFlex/index.html"
   },
   {
