@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/QRCodeFlex/static/css/main.10c871b7.chunk.css",
-    "main.js": "/QRCodeFlex/static/js/main.ae270845.chunk.js",
-    "main.js.map": "/QRCodeFlex/static/js/main.ae270845.chunk.js.map",
+    "main.css": "/QRCodeFlex/static/css/main.d74b2646.chunk.css",
+    "main.js": "/QRCodeFlex/static/js/main.f8456610.chunk.js",
+    "main.js.map": "/QRCodeFlex/static/js/main.f8456610.chunk.js.map",
     "runtime-main.js": "/QRCodeFlex/static/js/runtime-main.85be21b7.js",
     "runtime-main.js.map": "/QRCodeFlex/static/js/runtime-main.85be21b7.js.map",
-    "static/js/2.2e15270c.chunk.js": "/QRCodeFlex/static/js/2.2e15270c.chunk.js",
-    "static/js/2.2e15270c.chunk.js.map": "/QRCodeFlex/static/js/2.2e15270c.chunk.js.map",
+    "static/js/2.c9b5c5d0.chunk.js": "/QRCodeFlex/static/js/2.c9b5c5d0.chunk.js",
+    "static/js/2.c9b5c5d0.chunk.js.map": "/QRCodeFlex/static/js/2.c9b5c5d0.chunk.js.map",
     "index.html": "/QRCodeFlex/index.html",
-    "precache-manifest.7d87b83f10ffc442796f7dd288785449.js": "/QRCodeFlex/precache-manifest.7d87b83f10ffc442796f7dd288785449.js",
+    "precache-manifest.849a3c7ce03dfb5ac6d84bdcf804a9c1.js": "/QRCodeFlex/precache-manifest.849a3c7ce03dfb5ac6d84bdcf804a9c1.js",
     "service-worker.js": "/QRCodeFlex/service-worker.js",
-    "static/css/main.10c871b7.chunk.css.map": "/QRCodeFlex/static/css/main.10c871b7.chunk.css.map",
-    "static/js/2.2e15270c.chunk.js.LICENSE.txt": "/QRCodeFlex/static/js/2.2e15270c.chunk.js.LICENSE.txt"
+    "static/css/main.d74b2646.chunk.css.map": "/QRCodeFlex/static/css/main.d74b2646.chunk.css.map",
+    "static/js/2.c9b5c5d0.chunk.js.LICENSE.txt": "/QRCodeFlex/static/js/2.c9b5c5d0.chunk.js.LICENSE.txt",
+    "static/media/insta.jpg": "/QRCodeFlex/static/media/insta.04200daf.jpg",
+    "static/media/whats.jpg": "/QRCodeFlex/static/media/whats.461089b8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.85be21b7.js",
-    "static/js/2.2e15270c.chunk.js",
-    "static/css/main.10c871b7.chunk.css",
-    "static/js/main.ae270845.chunk.js"
+    "static/js/2.c9b5c5d0.chunk.js",
+    "static/css/main.d74b2646.chunk.css",
+    "static/js/main.f8456610.chunk.js"
   ]
 }
