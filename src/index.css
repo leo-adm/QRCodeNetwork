@@ -7,6 +7,23 @@ body {
     font-size: 22px;
 }
 
+header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+header p {
+    letter-spacing: 2px;
+    color:darkblue
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 h3 {
     margin-bottom: 10px;
 }
@@ -20,62 +37,102 @@ input{
 textarea {
     font-family: 'Lato', sans-serif;
     resize: vertical;
-    height: 54px;
-    margin-bottom: 25px;
+    height: 51px;
     font-size: 22px;
-    min-height: 24px;
+    min-height: 51px;
     max-height: 200px;
 }
 
-header {
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
 
-header p {
-    letter-spacing: 2px;
-    color:darkblue
-}
 
-header {
-    text-align: center;
-}
-
-main {
-    background-color: #f5f5f5;
-    width: 300px;
-    margin-right: auto;
-    margin-left: auto;
-    justify-items: center;
-    padding: 30px;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
-    display: flex;
-    flex-direction: column;
-}
-
-main button {
-    display: block;
-
-    margin-top: 5px;
-    margin-bottom: 22px;
-    width: 100%;
+.generateButton {
+    margin-top: 25px;
     
     font-weight: 600;
-    letter-spacing: 1px;
-    cursor: pointer;
+    font-size: 24px;
     font-family: 'Lato', sans-serif;
+
+    height: 50px;
+    cursor: pointer;
+
     border:none;
-    padding: 5px;
-    background-color: lightsalmon;
+    border-radius: 20px;
+    
+    background-color: rgb(56, 67, 221);
     color:white;
-    height: 30px;
-    align-items: center;
+
+    transition: 0.2s;
 }
 
-main p {
+.generateButton:hover{
+    background-color: rgb(104, 119, 247);
+}
+
+.generateButton:focus{
+    outline: none;
+}
+
+.formContainer {
+    background-color: #f5f5f5;
+    width: 250px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+    padding: 0px 30px 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+    
+    display: flex;
+    flex-direction: column;    
+}
+
+.formContainer p {
     margin-top: 5px;
     margin-bottom: 0;
     font-size: 14px;
     color: #333;
+    cursor: default;
+}
+
+.qrcode {
+    width: 250px;
+    height: 250px;
+    display: flex;
+
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+}
+
+.logoButton {
+    width: 50px;
+    height: 50px;
+
+    padding: 0px;
+    border:none;
+
+    margin: 0px 10px;
+
+    transition: 0.3s;
+}
+
+.logoButton:focus {
+    outline: none;
+}
+
+.logoButton:hover {
+    opacity: 0.8;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.whatsbtn {
+    background-color: #25d366;
+}
+
+.instabtn {
+    background-image: linear-gradient(to right, #fac065, #cc397b , #5e6cb2);
 }
