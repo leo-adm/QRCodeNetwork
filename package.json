@@ -33,5 +33,5 @@
     ]
   },
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+  "deploy": "gh-pages -d https://github.com/leo-adm/QRCodeFlex.git"
 }
