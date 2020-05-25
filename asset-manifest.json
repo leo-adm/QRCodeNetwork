@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/QRCodeFlex/static/css/main.d74b2646.chunk.css",
-    "main.js": "/QRCodeFlex/static/js/main.f8456610.chunk.js",
-    "main.js.map": "/QRCodeFlex/static/js/main.f8456610.chunk.js.map",
-    "runtime-main.js": "/QRCodeFlex/static/js/runtime-main.85be21b7.js",
-    "runtime-main.js.map": "/QRCodeFlex/static/js/runtime-main.85be21b7.js.map",
-    "static/js/2.c9b5c5d0.chunk.js": "/QRCodeFlex/static/js/2.c9b5c5d0.chunk.js",
-    "static/js/2.c9b5c5d0.chunk.js.map": "/QRCodeFlex/static/js/2.c9b5c5d0.chunk.js.map",
-    "index.html": "/QRCodeFlex/index.html",
-    "precache-manifest.849a3c7ce03dfb5ac6d84bdcf804a9c1.js": "/QRCodeFlex/precache-manifest.849a3c7ce03dfb5ac6d84bdcf804a9c1.js",
-    "service-worker.js": "/QRCodeFlex/service-worker.js",
-    "static/css/main.d74b2646.chunk.css.map": "/QRCodeFlex/static/css/main.d74b2646.chunk.css.map",
-    "static/js/2.c9b5c5d0.chunk.js.LICENSE.txt": "/QRCodeFlex/static/js/2.c9b5c5d0.chunk.js.LICENSE.txt",
-    "static/media/insta.jpg": "/QRCodeFlex/static/media/insta.04200daf.jpg",
-    "static/media/whats.jpg": "/QRCodeFlex/static/media/whats.461089b8.jpg"
+    "main.css": "/QRCodeNetwork/static/css/main.d74b2646.chunk.css",
+    "main.js": "/QRCodeNetwork/static/js/main.f8456610.chunk.js",
+    "main.js.map": "/QRCodeNetwork/static/js/main.f8456610.chunk.js.map",
+    "runtime-main.js": "/QRCodeNetwork/static/js/runtime-main.d8879e01.js",
+    "runtime-main.js.map": "/QRCodeNetwork/static/js/runtime-main.d8879e01.js.map",
+    "static/js/2.c9b5c5d0.chunk.js": "/QRCodeNetwork/static/js/2.c9b5c5d0.chunk.js",
+    "static/js/2.c9b5c5d0.chunk.js.map": "/QRCodeNetwork/static/js/2.c9b5c5d0.chunk.js.map",
+    "index.html": "/QRCodeNetwork/index.html",
+    "precache-manifest.fa714b848968b79c8fce017f46b1c4e1.js": "/QRCodeNetwork/precache-manifest.fa714b848968b79c8fce017f46b1c4e1.js",
+    "service-worker.js": "/QRCodeNetwork/service-worker.js",
+    "static/css/main.d74b2646.chunk.css.map": "/QRCodeNetwork/static/css/main.d74b2646.chunk.css.map",
+    "static/js/2.c9b5c5d0.chunk.js.LICENSE.txt": "/QRCodeNetwork/static/js/2.c9b5c5d0.chunk.js.LICENSE.txt",
+    "static/media/insta.jpg": "/QRCodeNetwork/static/media/insta.04200daf.jpg",
+    "static/media/whats.jpg": "/QRCodeNetwork/static/media/whats.461089b8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85be21b7.js",
+    "static/js/runtime-main.d8879e01.js",
     "static/js/2.c9b5c5d0.chunk.js",
     "static/css/main.d74b2646.chunk.css",
     "static/js/main.f8456610.chunk.js"
