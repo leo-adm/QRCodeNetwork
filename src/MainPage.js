@@ -2,9 +2,9 @@ import React, {useState} from "react";
 import "./index.css"
 
 import WhatsAppForm from "./SocialMediaForms/WhatsAppForm"
-import WhatsLogo from "./assets/whats.png"
+import WhatsLogo from "./assets/whats.jpg"
 import InstagramForm from "./SocialMediaForms/InstagramForm"
-import InstaLogo from "./assets/insta.png"
+import InstaLogo from "./assets/insta.jpg"
 
 
 function MainPage(){
@@ -25,7 +25,7 @@ function MainPage(){
                 )
             default:
                 return (
-                    <div></div>
+                    <div><h4>Choose a social media</h4></div>
                 )
         }
     }
@@ -39,10 +39,10 @@ function MainPage(){
                 <p>Create QRCodes for your favorite social medias!</p>
 
                 <button onClick={() => setActiveForm("whatsapp")} className="logoButton">
-                    <img src={WhatsLogo} className="logo"/>
+                    <img src={WhatsLogo} className="logo" alt="whatsapp logo"/>
                 </button>
                 <button onClick={() => setActiveForm("instagram")} className="logoButton">
-                    <img src={InstaLogo} className="logo"/>
+                    <img src={InstaLogo} className="logo" alt="instagram logo"/>
                 </button>
             </header>
 

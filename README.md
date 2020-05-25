@@ -1,6 +1,7 @@
-##QRCode Network
+## QRCode Network
 
-Creating useful QRCodes for your business and personal life.
+Creating useful QRCodes for your business and personal life. 
+
 Easy. Fast. Free.
 
 
